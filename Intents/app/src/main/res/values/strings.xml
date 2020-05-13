@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="first_activity">First activity</string>
+    <string name="click">Click</string>
+</resources>
